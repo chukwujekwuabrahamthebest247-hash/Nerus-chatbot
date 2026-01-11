@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI Pro",
+  "description": "An advanced AI orchestration platform featuring Gemini 3 Pro capabilities, real-time voice, image generation, and OpenRouter integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
